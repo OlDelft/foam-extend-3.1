@@ -1,0 +1,3 @@
+[submodule "FOAM-FSI"]
+	path = FOAM-FSI
+	url = git@github.com:davidsblom/FOAM-FSI.git
